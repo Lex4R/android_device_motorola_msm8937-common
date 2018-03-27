@@ -71,6 +71,9 @@ persist.dbg.wfc_avail_ovr=1
 ro.sf.hwc_set_default_colormode=true
 ro.vendor.display.cabl=0
 vendor.display.enable_default_color_mode=1
+vendor.display.disable_rotator_downscale=1
+vendor.display.disable_scaler=0
+
 
 # Fingerprint
 persist.qfp=false
