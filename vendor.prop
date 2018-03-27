@@ -115,6 +115,8 @@ dev.pm.dyn_samplingrate=1
 persist.hwc.mdpcomp.enable=true
 vendor.display.disable_rotator_split=1
 vendor.display.disable_skip_validate=1
+vendor.display.disable_rotator_downscale=1
+vendor.display.disable_scaler=0
 vendor.display.perf_hint_window=50
 vendor.gralloc.enable_fb_ubwc=1
 
