@@ -24,3 +24,6 @@ debug.cpurend.vsync=false
 
 #Display
 debug.sf.disable_client_composition_cache=1
+
+# Pre-Rendering
+ro.vendor.perf.scroll_opt=true
