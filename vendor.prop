@@ -131,6 +131,7 @@ debug.sf.early_gl_app_phase_offset_ns=15000000
 
 # Graphics
 ro.hardware.egl=adreno
+ro.hardware.vulkan=msm8937
 
 # Media
 vendor.mm.enable.qcom_parser=4643
