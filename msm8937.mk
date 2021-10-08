@@ -327,6 +327,7 @@ PRODUCT_PACKAGES += \
     init.mmi.rc \
     init.msm.usb.configfs.rc \
     init.oem.rc \
+    init.logcat.rc \
     init.qcom.rc \
     init.recovery.qcom.rc \
     init.safailnet.rc \
