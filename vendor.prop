@@ -62,11 +62,9 @@ persist.vendor.camera.display.lmax=1280x720
 persist.vendor.camera.HAL3.enabled=1
 persist.vendor.qti.telephony.vt_cam_interface=1
 
-
 # CNE
 persist.vendor.cnd.iwlan=1
 persist.vendor.cne.logging.qxdm=3974
-
 
 # Dalvik
 dalvik.vm.heapstartsize=16m
@@ -130,6 +128,9 @@ debug.sf.early_phase_offset_ns=1500000
 debug.sf.early_app_phase_offset_ns=1500000
 debug.sf.early_gl_phase_offset_ns=3000000
 debug.sf.early_gl_app_phase_offset_ns=15000000
+
+# Graphics
+ro.hardware.egl=adreno
 
 # Media
 vendor.mm.enable.qcom_parser=4643
