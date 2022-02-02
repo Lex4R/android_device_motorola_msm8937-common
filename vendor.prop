@@ -99,6 +99,10 @@ ro.vendor.fm.use_audio_session=true
 # FRP
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
 
+# Fling
+ro.min.fling_velocity=160
+ro.max.fling_velocity=20000
+
 # GPU
 debug.egl.hw=0
 debug.enable.sglscale=1
