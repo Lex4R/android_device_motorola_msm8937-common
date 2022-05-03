@@ -14,3 +14,7 @@ persist.vendor.cne.feature=1
 # RIL
 ril.subscription.types=NV,RUIM
 telephony.lteOnCdmaDevice=1
+
+#IORap
+persist.device_config.runtime_native_boot.iorap_readahead_enable=true
+iorapd.perfetto.enable=true
