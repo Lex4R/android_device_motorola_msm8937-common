@@ -18,3 +18,6 @@ telephony.lteOnCdmaDevice=1
 #IORap
 persist.device_config.runtime_native_boot.iorap_readahead_enable=true
 iorapd.perfetto.enable=true
+
+# Render
+debug.cpurend.vsync=false
