@@ -21,3 +21,6 @@ iorapd.perfetto.enable=true
 
 # Render
 debug.cpurend.vsync=false
+
+#Display
+debug.sf.disable_client_composition_cache=1
