@@ -274,13 +274,9 @@ vendor/lib64/vendor.display.postproc@1.0.so|6ed50478f3b6c4ff6871ce715b9944c5e8a4
 vendor/lib/hw/vulkan.msm8937.so|15185d60e0615009a39b6341755ec9de98725803
 vendor/lib64/hw/vulkan.msm8937.so|09c5d7b60e36fd9bb5aa25e9b4110e8bf9554731
 
-# Graphics firmware - from X00RD - QKQ1.191002.002-17.07.2003.405-20200330
-vendor/firmware/a300_pfp.fw|899dbfad4812084971cfc1ff30f06a4b45c2d34c
-vendor/firmware/a300_pm4.fw|94529206b45b6e9f6ed30dadabe4244a88a60975
-vendor/firmware/a330_pfp.fw|3e2fcee7276ded819cf2d95864fdd6788a484ee1
-vendor/firmware/a330_pm4.fw|ae739ea812f9e4462d7bba8b9ead5782d4496618
+# Graphics firmware - from LA.UM.9.6.3.r1-04400-89xx.0
 vendor/firmware/a530_gpmu.fw2|706da8d5ee565dcf456341f805ee75a40773f65a
-vendor/firmware/a530_pfp.fw|d027c70fde64241ec13160d09ee1b6c272974a4b
+vendor/firmware/a530_pfp.fw|35b72dce880191ff087af2524205afce40ea8c97
 vendor/firmware/a530_pm4.fw|b1cf625b5552b99839687f479c124ac5daca2ca2
 vendor/firmware/a530v1_pfp.fw|0864291b99bed712edfcffa94be7b4595d3af306
 vendor/firmware/a530v1_pm4.fw|6a82a4fb4035fa2a933c1a26b5535d7ec7c0ac4c
